@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-glibc
 
-MAINTAINER Koen <koen253janssen@gmail.com>
+MAINTAINER jeanvincent <jeanvincent.rose@gmail.com>
 
 ENV TEAMSPEAK_VERSION 3.0.12.4
 
